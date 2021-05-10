@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Amaan</h1>
-<h3 align="center">A am passionate about Web developer and dsa</h3>
+<h3 align="center">I am passionate about Web developer and dsa</h3>
 
 - 🌱 I’m currently learning **dsa , c++**
 
