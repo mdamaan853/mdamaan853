@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Amaan</h1>
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=saviomartin'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=mdamaan853'></p>
 <h3 align="center">I am passionate about Web developer and dsa</h3>
 
 - 🌱 I’m currently learning **dsa**
@@ -14,17 +14,6 @@
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=mdamaan853&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-## My Github Activity ⚡
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/saviomartin/codehouse/pull/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-2. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-3. 🗣 Commented on [#10](https://github.com/saviomartin/codehouse/issues/10) in [saviomartin/codehouse](https://github.com/saviomartin/codehouse)
-4. 🎉 Merged PR [#4](https://github.com/saviomartin/slickr/pull/4) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-5. 🗣 Commented on [#3](https://github.com/saviomartin/slickr/issues/3) in [saviomartin/slickr](https://github.com/saviomartin/slickr)
-<!--END_SECTION:activity-->
-
 
 
 <h3 align="left">Languages and Tools:</h3>
