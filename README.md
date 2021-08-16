@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Amaan</h1>
 <h3 align="center">I am passionate about Web developer and dsa</h3>
 
-- 🌱 I’m currently learning **dsa , c++**
-
-- 📝 I regularly write articles on [https://mdamaan853.medium.com/](https://mdamaan853.medium.com/)
+- 🌱 I’m currently learning **dsa**
 
 - 💬 Ask me about **react , node , c++ ,dsa**
 
 - 📫 How to reach me **mdamaan853@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jnU3ge28oi23tVZCkWNavfy2WGRdz0r_/view?usp=sharing](https://drive.google.com/file/d/1Rk5d10uZoYHYZB6_nvYckuFTuQvmyIL8/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
