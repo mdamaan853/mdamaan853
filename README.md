@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **react , node , c++ ,dsa**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jnU3ge28oi23tVZCkWNavfy2WGRdz0r_/view?usp=sharing](https://drive.google.com/file/d/1gcIHDJR2Ir9BYB_o6EqiJNdskl3itn3i/view?usp=drivesdk)
+
 - 📫 How to reach me **mdamaan853@gmail.com**
 
 
