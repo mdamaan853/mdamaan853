@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Md Amaan</h1>
 <p align='left'><img src='https://visitor-badge.laobi.icu/badge?page_id=mdamaan853'></p>
-<h3 align="center">I am passionate about Web developer and dsa</h3>
+<h3 align="center">I am passionate about Open source , Dsa and  Web development</h3>
 
-- 🌱 I’m currently learning **dsa**
+- 🌱 I’m currently learning **Dsa**
 
-- 💬 Ask me about **react , node , c++ ,dsa**
+- 💬 Ask me about **MERN, c++ ,dsa**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jnU3ge28oi23tVZCkWNavfy2WGRdz0r_/view?usp=sharing](https://drive.google.com/file/d/1gcIHDJR2Ir9BYB_o6EqiJNdskl3itn3i/view?usp=drivesdk)
 
