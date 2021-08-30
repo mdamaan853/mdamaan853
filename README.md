@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Dsa**
 
-- 💬 Ask me about **MERN, c++ ,dsa**
+- 💬 Ask me about **MERN, c++, JAVA ,dsa**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jnU3ge28oi23tVZCkWNavfy2WGRdz0r_/view?usp=sharing](https://drive.google.com/file/d/1gcIHDJR2Ir9BYB_o6EqiJNdskl3itn3i/view?usp=drivesdk)
 
