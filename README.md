@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amaan</h1>
 <p align='left'><img src='https://visitor-badge.laobi.icu/badge?page_id=mdamaan853'></p>
-<h3 align="center">I am passionate about Open source , Dsa and  Web development</h3>
+<h3 align="center">I am passionate about Open source , DSA and  Web development</h3>
 
 - 🌱 I’m currently learning **DSA**
 
